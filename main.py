@@ -45,7 +45,7 @@ while True:
             time.sleep(delay)
 
         elif put_response.status_code == 403:
-            print(f"❌ Rate Limited. Sleeping 1 minute", put_response.text)
+            print(f"❌ Verify yourself in the guild !. Sleeping 1 minute", put_response.text)
             time.sleep(60)
         else:
             print(f"❌ Failed for {guild['name']} ({guild['id']}):", put_response.status_code, put_response.text)
