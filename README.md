@@ -25,7 +25,7 @@ Edit the `config.json` file:
 
 ## 🚀 How to Run
 ```bash
-python clan_updater.py
+python main.py
 ```
 
 ## ⚠️ WARNING: RISK OF BAN
