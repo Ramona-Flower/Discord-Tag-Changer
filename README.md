@@ -36,10 +36,10 @@ Using selfbots, scripts, or automated access via a user token can result in:
 - IP bans in some cases
 - Removal from servers or guilds
 
-⚠️ USE AT YOUR OWN RISK. THIS IS FOR EDUCATIONAL PURPOSES ONLY.
+## ⚠️ USE AT YOUR OWN RISK. THIS IS FOR EDUCATIONAL PURPOSES ONLY.
 
-🧠 Disclaimer
+## 🧠 Disclaimer
 This project is provided as-is, without any guarantees. The author is not responsible for any bans or damage that may occur through the use of this code.
 
-📜 License
+## 📜 License
 Apache 2.0 License
