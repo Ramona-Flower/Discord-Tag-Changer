@@ -1,4 +1,4 @@
 {
     "token": "PUT_TOKEN_HERE",
-    "time_until_next_change": 60
+    "time_until_next_change": 3
 }
