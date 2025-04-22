@@ -29,6 +29,7 @@ python main.py
 ```
 
 ## ⚠️ WARNING: RISK OF BAN
+
 This script uses your Discord user token, which is strictly against Discord’s Terms of Service.
 Using selfbots, scripts, or automated access via a user token can result in:
 
